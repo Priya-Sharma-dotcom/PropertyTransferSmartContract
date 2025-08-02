@@ -1,4 +1,4 @@
-# PropertyTransfer Smart Contract
+# PropertyTransfer Smart Contract using Escrow
 
 A Solidity smart contract to manage property transactions with escrow and refund mechanisms.
 
